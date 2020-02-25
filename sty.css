@@ -1,0 +1,82 @@
+@charset "utf-8";
+/* CSS Document */
+html, body {
+    height: 100%;
+    margin: 0px;
+    font-size: 16px;
+    font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace";
+    font-weight: 400;
+    line-height: 1.8em;
+    color: #666;
+}
+.pic1 {
+    background-image: url("high-angle-view-of-lower-east-side-manhattan-downtown--new-york-city--usa-640006562-5ae52a273de423003776ae2e.jpg");
+    min-height: 70%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    opacity: 0.70;
+    background-position: center;
+    background-attachment: fixed;
+}
+.pic2 {
+    background-image: url("image.jpg");
+    min-height: 70%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    opacity: 0.70;
+    background-position: center;
+    background-attachment: fixed;
+}
+.pic3 {
+    background-image: url("TokyoMtFuji_Adobe.jpg");
+    min-height: 70%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    opacity: 0.70;
+    background-position: center;
+    background-attachment: fixed;
+}
+.section {
+    text-align: center;
+    padding: 50px 65px;
+}
+.section-dark {
+    background: #2D2828;
+    color: white;
+}
+.section-dream {
+    background-color: antiquewhite;
+    color: black;
+}
+.text1
+{
+	position: absolute;
+	top: 50%;
+	text-align: center;
+	width: 100%;
+	color: #000;
+	font-size: 26px;
+	letter-spacing: 8px;
+	text-transform: uppercase;
+}
+.text1 .bor
+{
+	background-color: white;
+	padding: 13px;
+	
+}
+.text1 .bor .tran
+{
+	background-color:transparent;
+}
+.hidee
+{
+	display: none;
+}
+.sticky
+{
+	
+}
