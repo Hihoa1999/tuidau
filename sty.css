@@ -76,7 +76,10 @@ html, body {
 {
 	display: none;
 }
-.sticky
+@media(max-width:568px)
 {
-	
+	.pic1 ,.pic2 ,.pic3
+	{
+		background-attachment: scroll;
+	}
 }
